@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<math.h>
 
 #define printf __mingw_printf
 int main(){
